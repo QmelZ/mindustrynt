@@ -1,0 +1,9 @@
+{
+    "name": "mindustrynt",
+    "displayName": "Mindustryn't",
+    "author": "QmelZ",
+    "description": "Mindustry not"
+    "version": 1,
+    "minGameVersion": 121,
+    "hidden": true,
+}
